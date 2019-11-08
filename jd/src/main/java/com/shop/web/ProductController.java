@@ -58,4 +58,9 @@ public class ProductController {
     {
         System.out.println(customerVo.getProduct().getName());
     }
+    
+    public void testdemo()
+    {
+    	System.out.println("hello");
+    }
 }
